@@ -1,0 +1,7 @@
+export const GET_BREED_SUCESS = "GET_BREED_SUCESS";
+
+export const GET_BREED_FAILURE = "GET_BREED_FAILURE";
+
+export const SET_SELECTED_BREED = "SET_SELECTED_BREED";
+
+export const ADD_TO_CART = "ADD_TO_CART";
